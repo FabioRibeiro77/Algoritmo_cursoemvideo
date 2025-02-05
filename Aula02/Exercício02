@@ -1,0 +1,11 @@
+Algoritmo "Aula 02 - Primeiro Algoritimo"
+
+Var
+   msg: caractere
+
+Inicio
+     msg <- "Hello, World!"
+     Escreval (msg)
+
+
+Fimalgoritmo

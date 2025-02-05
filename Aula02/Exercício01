@@ -1,0 +1,10 @@
+Algoritmo "Aula 02 - Primeiro Algoritimo"
+
+Var
+
+
+Inicio
+     Escreval ("Hello, World!")
+     Escreva ("Me livrei da maldição!")
+
+Fimalgoritmo
